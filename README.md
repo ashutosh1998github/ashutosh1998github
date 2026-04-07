@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-DevOps Engineer with **1.5+ years of hands-on experience** building and automating cloud infrastructure on AWS. I specialise in designing secure, scalable cloud environments — from provisioning infrastructure with Terraform to deploying containerised workloads on Kubernetes (EKS), automating CI/CD pipelines with Jenkins, and setting up full observability with Datadog.
+DevOps Engineer with **1+ years of hands-on experience** building and automating cloud infrastructure on AWS. I specialise in designing secure, scalable cloud environments — from provisioning infrastructure with Terraform to deploying containerised workloads on Kubernetes (EKS), automating CI/CD pipelines with Jenkins, and setting up full observability with Datadog.
 
 Before moving into DevOps, I worked **2+ years as a MERN Stack Developer** — which gives me a unique edge: I understand both the **dev and ops** side, making me a faster debugger and a better collaborator in cross-functional teams.
 
